@@ -1,2 +1,4 @@
 Just a text 
 of a new file
+And a new 2 string
+of test file
